@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full-Stack Developer with a passion for building scalable, modern web applications<br>🚀I’m Currently Working on cloud computing<br>📚I’m Currently Learning back-end server <br>📫 Let’s Connect!<br>LinkedIn: in/himanshu-kaswa-99a245206
+I'm a Full-Stack Developer with a passion for building scalable, modern web applications<br>🚀I’m Currently Working on cloud computing<br>📚I’m Currently Learning back-end server <br>📫 Let’s Connect!<br>
 
 
 ## 🌐 Socials:
@@ -22,4 +22,4 @@ I'm a Full-Stack Developer with a passion for building scalable, modern web appl
 ![](https://github-contributor-stats.vercel.app/api?username=himanshukaswa7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![snake gif](https://github.com/himanshukaswa7/himanshukaswa7/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/himanshukaswa7/himanshukaswa7/blob/output/github-contribution-grid-snake.svg)
