@@ -22,3 +22,4 @@ I'm a Full-Stack Developer with a passion for building scalable, modern web appl
 ![](https://github-contributor-stats.vercel.app/api?username=himanshukaswa7&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![snake gif](https://github.com/himanshukaswa7/himanshukaswa7/blob/output/github-contribution-grid-snake.gif)
